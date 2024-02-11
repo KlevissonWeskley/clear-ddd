@@ -1,0 +1,22 @@
+{
+  "name": "04-clear-ddd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.0",
+    "@types/node": "^20.10.5",
+    "typescript": "^5.3.3",
+    "vite-tsconfig-paths": "^4.3.1",
+    "vitest": "^0.34.6"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  }
+}
